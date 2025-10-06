@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: La consola de NetApp puede descubrir los sistemas E-Series en su entorno local.  Al agregar sistemas de la Serie E a la consola, podrá obtener una vista completa de los datos en su entorno híbrido de múltiples nubes. 
+summary: La NetApp Console puede descubrir los sistemas E-Series en su entorno local.  Al agregar sistemas de la Serie E a la consola, podrá obtener una vista completa de los datos en su entorno híbrido de múltiples nubes. 
 ---
 = Descubra los sistemas de la Serie E
 :hardbreaks:
@@ -14,15 +14,15 @@ summary: La consola de NetApp puede descubrir los sistemas E-Series en su entorn
 
 
 [role="lead"]
-Agregar sistemas E-Series a la consola de NetApp le permite administrar sus sistemas E-Series desde la consola y obtener una vista completa de su infraestructura de datos en su entorno híbrido de múltiples nubes.
+Agregar sistemas E-Series a la NetApp Console le permite administrar sus sistemas E-Series desde la consola y obtener una vista completa de su infraestructura de datos en su entorno híbrido de múltiples nubes.
 
-.Rol de consola de NetApp requerido
-Administrador de la organización, administrador de carpetas o proyectos, administrador de almacenamiento o especialista en estado del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Obtenga información sobre los roles de acceso a la consola de NetApp ."^]
+.Rol de NetApp Console requerido
+Administrador de la organización, administrador de carpetas o proyectos, administrador de almacenamiento o especialista en estado del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Obtenga información sobre los roles de acceso a la NetApp Console ."^]
 
 .Antes de empezar
 Necesitarás lo siguiente:
 
-* Un agente de consola de NetApp instalado en un proveedor de nube o en sus instalaciones, con conectividad de red al sistema E-Series. Debe tener el rol de administrador de la organización para instalar un agente de consola.  Si no sabe si su organización tiene un agente de consola o si necesita crear uno, comuníquese con su administrador de consola. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Comuníquese con el administrador de su organización."^]
+* Un agente de NetApp Console instalado en un proveedor de nube o en sus instalaciones, con conectividad de red al sistema E-Series. Debe tener el rol de administrador de la organización para instalar un agente de consola.  Si no sabe si su organización tiene un agente de consola o si necesita crear uno, comuníquese con su administrador de consola. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Comuníquese con el administrador de su organización."^]
 * El nombre de dominio o la dirección IP del controlador del sistema de almacenamiento.
 * Credenciales de administrador para el sistema E-Series.
 
