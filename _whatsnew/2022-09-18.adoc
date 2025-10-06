@@ -1,0 +1,9 @@
+= Soporte para la Serie E
+:allow-uri-read: 
+
+
+
+
+=== Soporte para la Serie E
+
+Ahora puede descubrir sus sistemas E-Series directamente desde BlueXP.  Descubrir los sistemas E-Series le proporciona una vista completa de los datos en su multinube híbrida.

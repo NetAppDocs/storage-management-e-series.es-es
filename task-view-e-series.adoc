@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: Después de descubrir sus sistemas E-Series, podrá ver detalles sobre la distribución de la capacidad, los volúmenes y los hosts. 
+---
+= Visualice sus sistemas de la Serie E
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Después de descubrir sus sistemas E-Series, podrá ver detalles sobre la distribución de la capacidad, los volúmenes y los hosts.
+
+.Rol de consola de NetApp requerido
+Administrador de la organización, administrador de carpetas o proyectos, administrador de almacenamiento o especialista en estado del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Obtenga información sobre los roles de acceso a la consola."^]
+
+.Pasos
+. Desde el menú de navegación, seleccione *Almacenamiento > Administración*.
+. En la página *Sistemas*, seleccione el sistema de la Serie E que desea ver.
+. Seleccione cualquiera de las opciones de menú disponibles para ver más detalles sobre su sistema E-Series:
++
+** *Descripción general*: una vista detallada de la distribución de la capacidad del sistema (capacidad asignada, libre y no asignada), la cantidad de volúmenes, hosts y más.
+** *Volúmenes*: Detalles sobre los volúmenes en el sistema, incluida la asignación, el nivel RAID, la capacidad asignada y más.
+** *Hosts*: Detalles sobre los hosts que envían E/S a un volumen en el sistema de almacenamiento.
+
+
+
