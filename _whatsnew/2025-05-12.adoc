@@ -6,4 +6,4 @@
 
 === Se necesita el rol de acceso a BlueXP
 
-Ahora necesita uno de los siguientes roles de acceso para ver, descubrir o administrar E-Series en BlueXP: administrador de la organización, administrador de carpeta o proyecto, administrador de almacenamiento o especialista en estado del sistema.  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["Obtenga más información sobre los roles de acceso de BlueXP ."^]
+Ahora necesitas una de las siguientes funciones de acceso para ver, descubrir o gestionar E-Series en BlueXP: Organization admin, Folder or project admin, Storage admin o System health specialist. https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["Obtenga más información sobre los roles de acceso de BlueXP ."^]

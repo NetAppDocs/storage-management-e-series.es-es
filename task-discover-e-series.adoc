@@ -22,7 +22,7 @@ Administrador de la organización, administrador de carpetas o proyectos, admini
 .Antes de empezar
 Necesitarás lo siguiente:
 
-* Un agente de NetApp Console instalado en un proveedor de nube o en sus instalaciones, con conectividad de red al sistema E-Series. Debe tener el rol de administrador de la organización para instalar un agente de consola.  Si no sabe si su organización tiene un agente de consola o si necesita crear uno, comuníquese con su administrador de consola. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Comuníquese con el administrador de su organización."^]
+* Un agente de NetApp Console instalado en un proveedor de nube o en tus instalaciones, con conectividad de red al sistema E-Series. Debes tener el rol de administrador de organización para instalar un agente de Console. Si no sabes si tu organización tiene un agente de Console, o si necesitas que se cree uno, contacta a tu administrador de Console. https://docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-admin["Comuníquese con el administrador de su organización."^]
 * El nombre de dominio o la dirección IP del controlador del sistema de almacenamiento.
 * Credenciales de administrador para el sistema E-Series.
 
